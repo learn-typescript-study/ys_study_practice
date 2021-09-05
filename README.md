@@ -7,7 +7,7 @@
 - [유틸리티 타입](https://github.com/learn-typescript-study/ys_study_practice/blob/main/utility_type.md)
 - [맵드 타입](https://github.com/learn-typescript-study/ys_study_practice/blob/main/mapped_type.md)
 - [최종 프로젝트 구성 및 타입 시스템 적용](https://github.com/learn-typescript-study/ys_study_practice/blob/main/project_tutorial.md)
-  [실습코드](https://github.com/yunseo323/TS_study/tree/main/practice/project)
+  - [실습코드](https://github.com/yunseo323/TS_study/tree/main/practice/project)
 
 # 6차 (9/5)
 
