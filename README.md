@@ -10,9 +10,9 @@
 
 # 6차 (9/5)
 
-- [점진적인 타입 적용]
-- [점진적인 타입 적용을 위한 프로젝트 환경 구성]
-- [외부 라이브러리 모듈화]
+- [점진적인 타입 적용](https://github.com/learn-typescript-study/ys_study_practice/blob/main/type_applying.md)
+- [점진적인 타입 적용을 위한 프로젝트 환경 구성](https://github.com/learn-typescript-study/ys_study_practice/blob/main/project_tutorial.md)
+
 
 # 7차 (9/8)
 
