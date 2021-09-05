@@ -20,8 +20,8 @@
 ## 외부 라이브러리 에러 처리
 : npm으로 라이브러리를 다운받고 적용할때, 일부 외부 라이브러리에서는 type이 자동으로 처리되지 않아 직접 
 - declaration file을 import하거나,
-- `index.d.ts ` type 정의 모듈을 작성해야함
+- `index.d.ts`  type 정의 모듈을 작성해야함
 ## Definitely Typed
 
-타입 정의가 포함되지 않은 라이브러리를 `@types/라이브러리이름`으로 install을 도와주는 오픈소스
+타입 정의가 포함되지 않은 라이브러리를 `@types/라이브러리이름` 으로 install을 도와주는 오픈소스
 
