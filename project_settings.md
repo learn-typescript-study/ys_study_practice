@@ -13,3 +13,15 @@
 # tslint를 사용하지 않고 eslint를 쓰는 이유
 : 성능 이슈가 있음. eslint에 tslint를 얹어서 가는 것으로 방향이 잡힘
 
+---
+
+# 외부 라이브러리 모듈화
+
+## 외부 라이브러리 에러 처리
+: npm으로 라이브러리를 다운받고 적용할때, 일부 외부 라이브러리에서는 type이 자동으로 처리되지 않아 직접 
+- declaration file을 import하거나,
+- `index.d.ts ` type 정의 모듈을 작성해야함
+## Definitely Typed
+
+타입 정의가 포함되지 않은 라이브러리를 `@types/라이브러리이름`으로 install을 도와주는 오픈소스
+
