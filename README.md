@@ -17,4 +17,6 @@
 
 # 7차 (9/8)
 
+- [API 오류 해결 - 실습코드](https://github.com/yunseo323/TS_study/tree/main/practice/project)
+
 # 8차 (9/12)
